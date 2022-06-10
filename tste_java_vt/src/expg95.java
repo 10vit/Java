@@ -1,0 +1,2 @@
+public class expg95 {
+}
